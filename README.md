@@ -1,2 +1,2 @@
-# mathematical-proofs
-Collection of mathematical proofs
+# academic-work
+Collection of academic works
